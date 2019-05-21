@@ -1,0 +1,25 @@
+.head{
+    font-family: 'Macondo Swash Caps', cursive;
+}
+body {
+    background-image: url(../images/marbel.jpg);
+}
+.border-weight{
+    border-left-width: 5px !important;
+    border-top-width: 5px !important;
+    border-bottom-width: thin !important;
+
+}
+.space1{
+    margin-right: 5px !important;
+}
+.portimg{
+    width:200px;
+    height:150px;
+    margin-right: 3px;
+}
+.mainbio{
+    font-size:16pt;
+    word-wrap: normal !important;
+
+}
