@@ -14,12 +14,15 @@ body {
     margin-right: 5px !important;
 }
 .portimg{
-    width:200px;
-    height:150px;
+    width:250x;
+    height:200px;
     margin-right: 3px;
 }
 .mainbio{
     font-size:16pt;
-    word-wrap: normal !important;
+    word-wrap: normal;
 
+}
+hr{
+    border-color:black;
 }
