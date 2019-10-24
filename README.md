@@ -1,2 +1,2 @@
 # Bootstrap-Portfolio
-This is the same project as the basic portfolio but employing bootstapp css.
+<h4>This is the same project as the basic portfolio, but instead of using basic CSS, it uses the Bootstrap Library.<h4/>
